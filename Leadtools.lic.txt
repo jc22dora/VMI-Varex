@@ -1,0 +1,31 @@
+[Info]
+Description = License file for LEADTOOLS SDK
+Non Server License
+Evaluation License
+
+[Expiration]
+Expiry Date = 10/26/2021
+
+[Customer]
+FirstName = John
+LastName = Doran
+Company = Unknown
+Application = Unknown
+LEADContact = Unknown
+UserContact = jc22dora@siena.edu
+
+[Product]
+Version = 21.0
+PurchaseDate = Unknown
+Product1 = Unknown
+
+[SerialNumbers]
+SN = Unknown
+
+
+[Unlocks]
+L_SUPPORT_BASIC
+L_SUPPORT_APP_STORE
+
+[JSLicense]
+License = {"ver":"3.0","code":"fxsdKEWLpzQAF671FNV6VCyGXq/Z54VdpECszHcnGzjt3N9MeKKBcPTWZYEN9L9V9hnAkY88pnsr9U6xUQVfk6Mo4glkDgqRwCwCc/3bKduIFQxAz/OrYSIkPG/bgNDOlSdPVMyFUmeRRkmYJA2D0x9XW5jLz+k2V7Q6aFefEjBRx0OfCvD/QH5JgQUPG7o5+HBe4f9A+2EEXjlWbBAQyRuJc1JuTVGVUifUalpCOg6+KvAaxYZ7Y/A65BLl8JHHuwM+LbfA1pYNno7H058EnLdo7oAs1sP2L6BHKO0o5ayKyl1bScECEesJ6sj5KVBPM2h5hmYBeG1jIdon28HuIGh3aPUG5aSdkIjYXtysMTpCe0uMbBs4vmkupzZiPHe9ZximGWzJDjBj1cmoM9MQZ6eQonM7VpvuN3nrz52+Gp0ykgRv2I1OVjLQLTmtsg0XPlNTUTwTiiLnM1XqKyBtR7BktkBTqzkj6/yNNg7PAjt8QmmUZGIRWSlhTK/vvYUb8z5iiEbUi1fgbL0drNxOOq5lcXQlhaVcHPAMRlyw0c5tjUO7tOuQEDyeMpTL9kXx+qVUbj8oLC0lCWmnB9Z7DVVOXeEtQ7SX"}
